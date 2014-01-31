@@ -1,6 +1,7 @@
 Joints WP child theme
 =====================
-A Wordpress child theme for the JointsWP theme.
+A Wordpress child theme for the JointsWP theme
+by Joshua Ellinger
 
 ## To install:
 1. Install JointsWp theme in the appropriate directory
