@@ -23,3 +23,5 @@ function jointswp_child_theme_scripts_and_styles() {
 
 	wp_enqueue_style( 'jointswp-child-stylesheet' );
 }
+
+?>
