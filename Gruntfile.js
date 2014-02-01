@@ -52,7 +52,7 @@ module.exports = function(grunt) {
 		}
 	};
 
-	// Uncomment here and comment the other task to use ruby sass
+	// Comment here and uncomment the other task to use ruby sass
 	grunt.loadNpmTasks('grunt-sass'); // sassc
 	//grunt.loadNpmTasks('grunt-contrib-sass'); // ruby sass
 
