@@ -9,7 +9,7 @@
 	"author": "joshellinger",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/thaume/sassc-test/issues"
+		"url": "https://github.com/joshellinger/sassc-test/issues"
 	},
 	"dependencies": {
 		"grunt": "~0.4.1",
