@@ -8,7 +8,7 @@ by [@JoshEllinger](http://twitter.com/JoshEllinger)
 1. Install JointsWp-child in the appropriate directory
 
 
-## To install grunt functionality
+### To install grunt functionality
 1. install [nodejs](http://nodejs.org/)
 1. install [grunt](http://gruntjs.com/) if you havent already done this by using the command ``` npm install -g grunt-cli ```
 1. run npm install inside the JointsWP-child directory
